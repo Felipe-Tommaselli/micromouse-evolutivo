@@ -15,7 +15,7 @@
 
 Projeto final desenvolvido para disciplina de Sistemas Evolutivos e Aplicados à Robótica (SSC0713) oferecida pelo ICMC-USP. Todos os programas  e algoritmos desenvolvidos na disciplina e nesse projeto possuem apenas fins educacionais. O projeto é um compilado de algoritmos com o intuito de montar um algoritmo evolutivo para resolver o labirinto de competições MicroMouse, como no link: https://en.wikipedia.org/wiki/Micromouse. 
 
-![Exemplo de labirinto](https://user-images.githubusercontent.com/62042164/149367647-4ba8d008-2783-48e0-8a80-9676d314e005.png)
+![Exemplo funcionando](https://user-images.githubusercontent.com/62042164/149571181-952e1e47-be10-4550-9baa-99b66329540c.gif)
 
 ### Funcionamento e Resultados
 
